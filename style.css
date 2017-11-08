@@ -1,0 +1,52 @@
+.top {
+  position: fixed;
+  height: auto;
+  width: auto;
+  text-align: center;
+  color: black;
+  top: 15px;
+  right: 15px;
+}
+
+.main {
+  position: fixed;
+  text-align: center;
+  top: 250px;
+  right: 0;
+  left: 0;
+}
+
+.leftbot {
+  position: fixed;
+  height: auto;
+  width: auto;
+  text-align: center;
+  bottom: 15px;
+  left: 15px;
+}
+
+.rightbot {
+  position: fixed;
+  height: auto;
+  width: auto;
+  text-align: center;
+  bottom: 15px;
+  right:  15px;
+}
+
+span {
+  display: inline-block;
+  margin: 10px;
+  font-size: 15px;
+  color: black;
+}
+
+a {
+  color: black;
+}
+
+.input {
+  width: 300px;
+  height: 20px;
+  border: 1px solid black;
+}
